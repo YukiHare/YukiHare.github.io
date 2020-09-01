@@ -1,0 +1,84 @@
+.my-list {
+    color: hotpink;
+    float: right;
+    position: relative;
+    right: 35em;
+    font-style: normal;
+
+}
+.div1 {
+    opacity: .9;
+    background-color:silver;
+    background-image: url("imgs/SleepBun.jpg");
+    background-size: cover;
+    backface-visibility: visible;
+    background-clip: border-box;
+}
+* {
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+}
+#about{
+    color: hotpink;
+    float: right;
+    position: relative;
+    right: 40em;
+    font-style: normal;
+    background-color:silver;
+}
+#c0 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+#c1 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+#c2 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+#c3 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+#c4 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+#c5 {
+    color: hotpink;
+    background: black;
+    width: 10em;
+}
+
+#Cute1 {
+color: hotpink;
+    width: 10em;
+}
+#Cute2 {
+color: hotpink;
+    width: 10em;
+}
+#Cute3 {
+color: hotpink;
+    width: 10em;
+}
+#Cute4 {
+color: hotpink;
+    width: 10em;
+}
+#Cute5 {
+color: hotpink;
+    width: 10em;
+}
+#Cute6 {
+color: hotpink;
+    width: 10em;
+}
