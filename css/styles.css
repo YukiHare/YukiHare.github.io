@@ -5410,7 +5410,18 @@ a.close.disabled {
   margin: 0.5rem;
   pointer-events: none;
 }
+<<<<<<< HEAD
 
+=======
+.modal.fade .modal-dialog {
+  transition: transform 0.3s ease-out;
+  transform: translate(0, -50px);
+}
+@media (prefers-reduced-motion: reduce) {
+  .modal.fade .modal-dialog {
+    transition: none;
+  }
+>>>>>>> origin/master
 }
 .modal.show .modal-dialog {
   transform: none;
@@ -5460,7 +5471,38 @@ a.close.disabled {
   content: none;
 }
 
+<<<<<<< HEAD
 
+=======
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+  outline: 0;
+}
+
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1040;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000;
+}
+.modal-backdrop.fade {
+  opacity: 0;
+}
+.modal-backdrop.show {
+  opacity: 0.5;
+}
+>>>>>>> origin/master
 
 .modal-header {
   display: flex;
@@ -10106,7 +10148,11 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
+<<<<<<< HEAD
   background-image: url("../assets/img/Konachan.com_-_312919_animal_bird_building_city_clouds_grass_moon_nobody_original_scenic_signed_silh.jpg");
+=======
+  background-image: url("../assets/img/header-bg.jpg");
+>>>>>>> origin/master
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
