@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3101d18-6d36-4c2e-90cd-6e38af51c450" name="Default Changelist" comment="Reworked dir and Updated!">
-      <change afterPath="$PROJECT_DIR$/.idea/YukiHare.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_19_2020_3_59_PM_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_9_19_2020_3_59_PM__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="b3101d18-6d36-4c2e-90cd-6e38af51c450" name="Default Changelist" comment="Reworked dir and Updated!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles1.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +59,7 @@
       <workItem from="1600282115921" duration="1610000" />
       <workItem from="1600302417738" duration="13000" />
       <workItem from="1600556358359" duration="198000" />
-      <workItem from="1600556559010" duration="11513000" />
+      <workItem from="1600556559010" duration="12385000" />
     </task>
     <task id="LOCAL-00001" summary="Reworked dir">
       <created>1600282168993</created>
@@ -81,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600582657233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reworked dir and Updated!!">
+      <created>1600583041106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600583041106</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +104,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Reworked dir" />
     <MESSAGE value="Reworked dir and Updated!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked dir and Updated!" />
+    <MESSAGE value="Reworked dir and Updated!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reworked dir and Updated!!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600556690312">
@@ -122,10 +124,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="598" y="286" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600582798507" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600582995072">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600583044621">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600582995072" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600583044621" />
     <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600556388638">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
