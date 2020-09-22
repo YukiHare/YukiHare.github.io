@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3101d18-6d36-4c2e-90cd-6e38af51c450" name="Default Changelist" comment="Reworked dir and Updated!!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles1.css" beforeDir="false" />
-    </list>
+    <list default="true" id="b3101d18-6d36-4c2e-90cd-6e38af51c450" name="Default Changelist" comment="Reworked dir and Updated!!Fixed!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +42,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CIT95FA20" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +55,7 @@
       <workItem from="1600282115921" duration="1610000" />
       <workItem from="1600302417738" duration="13000" />
       <workItem from="1600556358359" duration="198000" />
-      <workItem from="1600556559010" duration="12385000" />
+      <workItem from="1600556559010" duration="13061000" />
     </task>
     <task id="LOCAL-00001" summary="Reworked dir">
       <created>1600282168993</created>
@@ -82,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600583041106</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reworked dir and Updated!!Fixed!">
+      <created>1600584064085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600584064085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,17 +108,18 @@
     <MESSAGE value="Reworked dir" />
     <MESSAGE value="Reworked dir and Updated!" />
     <MESSAGE value="Reworked dir and Updated!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reworked dir and Updated!!" />
+    <MESSAGE value="Reworked dir and Updated!!Fixed!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reworked dir and Updated!!Fixed!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600556690312">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="729" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1600556690312" />
-    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1600556556085">
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1600584564475">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600556556085" />
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1600584564475" />
     <state x="184" y="87" key="MergeDialog" timestamp="1600582798499">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -124,10 +128,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="598" y="286" key="MultipleFileMergeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600582798507" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600583044621">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1600584066332">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600583044621" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1600584066332" />
     <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600556388638">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
