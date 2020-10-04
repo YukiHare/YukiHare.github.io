@@ -10,6 +10,25 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+#bunf {
+font-size: 5rem;
+  color: skyblue;
+
+}
+#fbunny {
+padding-left: 35em;
+}
+#bfoodfact {
+  color: white;
+
+  font-size: 1em;
+background-image: url("../assets/img/Stars.jpg");
+
+}
+
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;

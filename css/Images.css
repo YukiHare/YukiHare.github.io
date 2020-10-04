@@ -10,6 +10,14 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+#Pro {
+  font-size: 1.9rem;
+  margin-left: 1em;
+
+}
+
+
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -57,6 +65,15 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
+
+
+
+
+
+
+
+
+
 
 body {
   margin: 0;
@@ -500,7 +517,9 @@ mark,
   font-size: 90%;
   color: #6c757d;
 }
-
+#fate{
+ padding-right: 500em;
+}
 code {
   font-size: 87.5%;
   color: #e83e8c;
